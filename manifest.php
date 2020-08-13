@@ -14,9 +14,9 @@ $manifest['version'] = '1.0.1';
 $manifest['display'] = true;
 $manifest['standalone'] = true;
 
-// $manifest['github_update'] = 'ThemeFuse/Unyson-Portfolio-Extension';
+$manifest['github_update'] = 'ivanaivytrajkova/Unyson-Integrations-Extension';
 
-// $manifest['github_repo'] = 'https://github.com/ThemeFuse/Unyson-Portfolio-Extension';
+$manifest['github_repo'] = 'https://github.com//ivanaivytrajkova/Unyson-Integrations-Extension';
 // $manifest['uri'] = 'http://manual.unyson.io/en/latest/extension/portfolio/index.html#content';
-// $manifest['author'] = 'ThemeFuse';
-// $manifest['author_uri'] = 'http://themefuse.com/';
+$manifest['author'] = 'ivanaivytrajkova';
+$manifest['author_uri'] = 'https://embedsocial.com/';
